@@ -3,7 +3,7 @@
 The mission is to improve developer relations, growth in proficiency, and network for people within LagosJUG and beyond. Feel free to dive into our open-source ecosystem, where contributions are driven by passion and collaboration.
 
 # Project
-A Project at any point in time must have a Lead/Owner and at least 3 team members working to achieve a milestone within its defined scope under the supervision of the Lagos Admin. The Project Owner should document Each Milestone as a user story.
+A Project at any point in time must have a Lead/Owner and at least 3 team members working to achieve a milestone within its defined scope under the supervision of the Lagos JUG Admin. The Project Owner should document Each Milestone as a user story.
 
 All Lagos JUG projects are Opensource projects, so we prioritize using free Opensource tools. 
 
